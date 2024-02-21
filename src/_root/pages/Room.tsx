@@ -1,15 +1,15 @@
-import React from "react";
-import { ZegoUIKitPrebuilt } from "@zegocloud/zego-uikit-prebuilt";
-import {
-  Route,
-  Routes,
-  Link,
-  Outlet,
-  useParams,
-  useLocation,
-} from "react-router-dom";
-import { useUserContext } from "@/context/AuthContext";
-import { string } from "zod";
+// import React from "react";
+// import { ZegoUIKitPrebuilt } from "@zegocloud/zego-uikit-prebuilt";
+// import {
+//   Route,
+//   Routes,
+//   Link,
+//   Outlet,
+//   useParams,
+//   useLocation,
+// } from "react-router-dom";
+// import { useUserContext } from "@/context/AuthContext";
+// import { string } from "zod";
 
 function Room() {
   const { id } = useParams();

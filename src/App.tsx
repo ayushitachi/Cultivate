@@ -18,7 +18,7 @@ import SigninForm from "@/_auth/forms/SigninForm";
 import { Toaster } from "@/components/ui/toaster";
 
 import "./globals.css";
-import Room from "./_root/pages/Room";
+// import Room from "./_root/pages/Room";
 
 const App = () => {
   return (
